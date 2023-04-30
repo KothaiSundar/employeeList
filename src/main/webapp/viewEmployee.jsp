@@ -37,7 +37,7 @@
            <th>Update_Employee</th>
            <th>Delete_Employee</th>
           </tr> 
-    <%for(Employee employee : employees){ %>
+    <%for(Employee employee : employees){%>
     
     <tr>
         <td><%= employee.getEmployeeId() %></td>
