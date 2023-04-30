@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Employee List</title>
 </head>
 <style>
 html{
@@ -60,7 +60,8 @@ color: #fff;
 
 h2
 {
-font-size: 2rem;}
+font-size: 2rem;
+}
 
 
 </style>
